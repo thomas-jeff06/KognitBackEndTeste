@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KognitBackEndTeste", "KognitBackEndTeste\KognitBackEndTeste.csproj", "{80BBE76F-A77C-406A-B3AC-022E9E797998}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80BBE76F-A77C-406A-B3AC-022E9E797998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80BBE76F-A77C-406A-B3AC-022E9E797998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80BBE76F-A77C-406A-B3AC-022E9E797998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80BBE76F-A77C-406A-B3AC-022E9E797998}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F265B886-8AE1-4280-961C-373563C3C4E7}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+@KognitBackEndTeste_HostAddress = http://localhost:5265
+
+GET {{KognitBackEndTeste_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
